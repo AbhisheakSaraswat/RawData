@@ -1,0 +1,11 @@
+,age,sex,bmi
+0,19,female,27.9
+1,18,male,33.77
+2,28,male,33.0
+3,33,male,22.705
+4,32,male,28.88
+5,31,female,25.74
+6,46,female,33.44
+7,37,female,27.74
+8,37,male,29.83
+9,60,female,25.84
