@@ -14,6 +14,7 @@ When a company receives a loan application, it must decide whether to approve or
 Two main risks are associated with this decision:
 
 **Business Loss:** If an applicant is capable of repaying the loan but their application is denied, the company loses potential business.
+
 **Financial Loss:** If an applicant is likely to default on the loan but their application is approved, the company may suffer financial losses.
 
 **Business Objectives**
